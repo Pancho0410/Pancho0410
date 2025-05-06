@@ -11,25 +11,29 @@ Hi, I'm Tobías Francisco Zamora Santos!
   </a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/Pancho0410/Pancho0410/blob/main/ProfilePancho-01.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
-I-am-vishalmaurya@github
--------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+# 👨‍💻 Tobías Francisco Zamora Santos
+
+Bienvenido a mi perfil de GitHub 👋, 🚀 Sobre mí:
+----------------------------------------------
+🎓 Estudiante de Ingeniería en Ciencias y Sistemas (USAC - Guatemala)
+🔍 Interesado en backend con Node.js y desarrollo móvil con React Native
+🌐 Me atraen los lenguajes modernos como Go y JavaScript (especialmente para backend)
+🧠 Interesado por la Inteligencia Artificial y lo que se puede construir con ella
+🐍 Aunque Python no es mi favorito, reconozco su poder en ciencia de datos e IA
+🐱 Fanático de los gatos, los podcasts y todo lo relacionado con terror
+🎶 Me gusta la música electrónica, el trap y los ambientes sonoros oscuros
 ```
+
+<br>
+<br>
+<br>
+<br>
+<br>
 <hr>
-
-
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
@@ -90,51 +94,14 @@ I-am-vishalmaurya@github
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
+### 📂 Algunos de mis proyectos
+- 🧾 Página de presentación personal: [pancho0410.github.io](https://pancho0410.github.io/)
+- 📘 Prácticas universitarias: [Ver proyecto](https://pancho0410.github.io/Practicas_iniciales_202002873/)
 
-## GitHub Stats
+### 📫 Contacto
+- Correo: tobiasf.zamora@gmail.com
+- GitHub: [@Pancho0410](https://github.com/Pancho0410)
 
-
-|                                                                     Vishal's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
-    
-
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
-
-
-
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## Let's Work on Your Project Together!
-
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
-  </tr>
-</table>
-
-------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
 
 
 
