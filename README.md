@@ -117,17 +117,7 @@ Bienvenido a mi perfil de GitHub 👋, 🚀 Sobre mí:
 > Prefiero interfaces en modo oscuro y organizar visualmente mis tareas.  
 >  
 > Utilizo Adobe Acrobat para leer proyectos y marcar las partes que ya realicé y las que tengo en curso.  
->  
-> 🐱‍👓 Me apasiona el hardware: armé mi propia computadora con las siguientes especificaciones:  
-> • Procesador: Intel Core i5-14400F  
-> • Memoria RAM: 32GB DDR5 Corsair Vengeance 5200 MT/s  
-> • Placa base: MSI B760 Plus WiFi  
-> • Tarjeta gráfica: NVIDIA GeForce RTX 4060 8GB  
-> • Fuente de poder: Corsair RM750e 750W Full Modular 80 Plus Gold  
-> • Almacenamiento: 2TB WD_BLACK SN770 NVMe (5,150 MB/s)  
-> • Gabinete: MAG FORGE 120A AIRFLOW  
->  
-> 👍 Esta máquina es mi fiel compañera para desarrollar, aprender y crear.
+
 
 
 
